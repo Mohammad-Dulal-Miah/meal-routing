@@ -1,0 +1,12 @@
+.product-container{
+
+    height:300px;
+    border: 2px solid yellowgreen;
+    margin: 10px;
+    padding: 40px;
+}
+
+.product-container img{
+    width:300px;
+    height:200px;
+}

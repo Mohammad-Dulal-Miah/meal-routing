@@ -1,0 +1,15 @@
+.products-container{
+
+    padding:20px;
+}
+
+.products-container input{
+    width:200px;
+    height:20px;
+    border-radius: 5px;
+}
+
+.food{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
